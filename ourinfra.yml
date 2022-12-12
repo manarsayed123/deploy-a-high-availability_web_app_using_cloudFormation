@@ -224,8 +224,8 @@ Resources:
                   -   s3:Get*
                   -   s3:List*
                   Resource: 
-                  -   arn:aws:s3:::myprojectASIAV7HW7H6F7DHXAQ5O
-                  -   arn:aws:s3:::myprojectASIAV7HW7H6F7DHXAQ5O/*
+                  -   arn:aws:s3:::myproject410687324043
+                  -   arn:aws:s3:::myproject410687324043/*
           Roles:
           - Ref: UdacityS3ReadOnlyEC2
 
